@@ -1,0 +1,368 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Validate whether login page working fine (or) not",
+        "description": "",
+        "id": "verify-whether-login-page-working-fine-(or)-not;validate-whether-login-page-working-fine-(or)-not",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7752290400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User has to enter the lanuch broeser and url",
+            "match": {
+              "location": "StepDefinitionClass.user_has_to_enter_the_lanuch_broeser_and_url()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 322732900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User has to enter the password and password",
+            "match": {
+              "location": "StepDefinitionClass.user_has_to_enter_the_password_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1045583500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User has to click the submit button",
+            "match": {
+              "location": "StepDefinitionClass.user_has_to_click_the_submit_button()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Verify whether login page working fine (or) not",
+    "description": "",
+    "id": "verify-whether-login-page-working-fine-(or)-not",
+    "keyword": "Feature",
+    "uri": "src/test/resources/Santhamurthy.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Validate whether search hotel page working fine (or) not",
+        "description": "",
+        "id": "verify-whether-search-hotel-page-working-fine-(or)-not;validate-whether-search-hotel-page-working-fine-(or)-not",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 222815300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User has to select the location drop down",
+            "match": {
+              "location": "StepDefinitionClass1.user_has_to_select_the_location_drop_down()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 177165300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User has to select the hotel drop down",
+            "match": {
+              "location": "StepDefinitionClass1.user_has_to_select_the_hotel_drop_down()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 168801000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User has to select the room type drop down",
+            "match": {
+              "location": "StepDefinitionClass1.user_has_to_select_the_room_type_drop_down()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 124489100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User has to select the number of rooms drop down",
+            "match": {
+              "location": "StepDefinitionClass1.user_has_to_select_the_number_of_rooms_drop_down()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 134609300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User has to enter the check in date",
+            "match": {
+              "location": "StepDefinitionClass1.user_has_to_enter_the_check_in_date()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 122806200,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User has to enter the chek out date",
+            "match": {
+              "location": "StepDefinitionClass1.user_has_to_enter_the_chek_out_date()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 157047300,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User has to select the adults per room",
+            "match": {
+              "location": "StepDefinitionClass1.user_has_to_select_the_adults_per_room()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 153280400,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User has to select the children per room",
+            "match": {
+              "location": "StepDefinitionClass1.user_has_to_select_the_children_per_room()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 766052300,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User has to click on search button",
+            "match": {
+              "location": "StepDefinitionClass1.user_has_to_click_on_search_button()"
+            },
+            "keyword": "When "
+          }
+        ]
+      }
+    ],
+    "name": "Verify whether search hotel page working fine (or) not",
+    "description": "",
+    "id": "verify-whether-search-hotel-page-working-fine-(or)-not",
+    "keyword": "Feature",
+    "uri": "src/test/resources/Santhamurthy1.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Validate whether Select Hotel page working fine (or) not",
+        "description": "",
+        "id": "verify-whether-select-hotel-page-is-working-(or)-not;validate-whether-select-hotel-page-working-fine-(or)-not",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 115597900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User has to select the radio button",
+            "match": {
+              "location": "StepDefinitionClass2.user_has_to_select_the_radio_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 749487700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User has to click on continue button",
+            "match": {
+              "location": "StepDefinitionClass2.user_has_to_click_on_continue_button()"
+            },
+            "keyword": "When "
+          }
+        ]
+      }
+    ],
+    "name": "Verify whether Select Hotel page is working (or) not",
+    "description": "",
+    "id": "verify-whether-select-hotel-page-is-working-(or)-not",
+    "keyword": "Feature",
+    "uri": "src/test/resources/Santhamurthy2.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Validate whether Book A Hotel page working fine (or) not",
+        "description": "",
+        "id": "verify-whether-book-a-hotel-page-is-working-(or)-not;validate-whether-book-a-hotel-page-working-fine-(or)-not",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 145271000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User has to enter first name",
+            "match": {
+              "location": "StepDefinitionClass3.user_has_to_enter_first_name()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 128692100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User has to enter last name",
+            "match": {
+              "location": "StepDefinitionClass3.user_has_to_enter_last_name()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 139014500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User has to enter address",
+            "match": {
+              "location": "StepDefinitionClass3.user_has_to_enter_address()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 141164500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User has to enter cerdit card number",
+            "match": {
+              "location": "StepDefinitionClass3.user_has_to_enter_cerdit_card_number()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 132017200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User has to enter 4 didgit CVV Number",
+            "match": {
+              "arguments": [
+                {
+                  "val": "4",
+                  "offset": 18
+                }
+              ],
+              "location": "StepDefinitionClass3.user_has_to_enter_didgit_CVV_Number(Integer)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 202982900,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User has to select credit card type",
+            "match": {
+              "location": "StepDefinitionClass3.user_has_to_select_credit_card_type()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 174259500,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User has to select expiry month",
+            "match": {
+              "location": "StepDefinitionClass3.user_has_to_select_expiry_month()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 173009700,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User has to select expiry year",
+            "match": {
+              "location": "StepDefinitionClass3.user_has_to_select_expiry_year()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 128696700,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User has to click on book now button",
+            "match": {
+              "location": "StepDefinitionClass3.user_has_to_click_on_book_now_button()"
+            },
+            "keyword": "When "
+          }
+        ]
+      }
+    ],
+    "name": "Verify whether Book A Hotel page is working (or) not",
+    "description": "",
+    "id": "verify-whether-book-a-hotel-page-is-working-(or)-not",
+    "keyword": "Feature",
+    "uri": "src/test/resources/Santhamurthy3.feature",
+    "tags": []
+  }
+]
